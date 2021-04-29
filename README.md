@@ -1,6 +1,7 @@
-# IBM AI Enterprise Workflow Certification - Capstone 
+# IBM AI Enterprise Workflow  - Capstone 
 
-
+This project is developed from Coursera certification and IBM AI workflow.
+All the requierements are completed for the evaluation
 ===========
 
 All commands are from this directory.
